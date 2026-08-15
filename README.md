@@ -1,13 +1,17 @@
 # DS2API Android APK
 
-DS2API Android 客户端 APK 发布仓库。
+DS2API Android 客户端发布仓库（APK + 源码包）。
 
-> **声明**：本仓库**仅发布 APK 构建产物，不含任何源码，项目不开源**。
-> 请勿在本仓库提issues索要源码。
+> **声明**：本仓库发布 APK 构建产物与源码压缩包，**源码可见但项目不开源**——
+> 未授予任何开源许可证，保留所有权利。源码仅供学习参考，**禁止**再分发、
+> 二次打包发布或用于其他商业用途。
 
 ## 下载
 
-到 [Releases](https://github.com/yansheng1014/ds2api-apk/releases) 页面下载最新 APK。
+到 [Releases](https://github.com/yansheng1014/ds2api-apk/releases) 页面下载：
+
+- `ds2api-android-vX.Y.Z.apk` — 安装包
+- `ds2api-android-vX.Y.Z-source.zip` — 对应版本源码快照（不含签名密钥）
 
 | 版本 | versionCode | 说明 |
 |---|---|---|
